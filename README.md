@@ -13,7 +13,7 @@ ___________________
 * Alternar estado (ativado/desativado)
 * Sair do sistema
 ______________________
-## Tecnologias utilizadas
+## Linguagem:
 
 * Python
 _______________________
